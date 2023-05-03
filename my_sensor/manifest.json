@@ -1,5 +1,7 @@
 {
 "domain": "my_sensor",
-"version":"9.9.01"
+"version":"9.9.01",
+"name":"Hello Kitty",
+"codeowners":"Mis"
 
 }
