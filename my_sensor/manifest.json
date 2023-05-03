@@ -2,6 +2,12 @@
 "domain": "my_sensor",
 "version":"9.9.01",
 "name":"Hello Kitty",
-"codeowners":"Mis"
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/mymissball/hac/edit/main/my_sensor",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
 
 }
